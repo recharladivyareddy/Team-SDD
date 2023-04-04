@@ -1,0 +1,8 @@
+Create a file(file1.txt) with content "Welcome to project school"
+Edit file1.txt and add "Cyber Security Session"
+IP address of google.com and add that to file1.txt
+All these should be done using single command line
+
+echo "Welcome to Project School" > file1.txt 
+echo "Cyber Security Session" >> file1.txt
+ping -c 1 google.com >> file1.txt
