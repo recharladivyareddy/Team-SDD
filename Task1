@@ -6,3 +6,4 @@ All these should be done using single command line
 echo "Welcome to Project School" > file1.txt 
 echo "Cyber Security Session" >> file1.txt
 ping -c 1 google.com >> file1.txt
+nslookup google.com >> file1.txt
